@@ -12,6 +12,6 @@
 <h3>Where to find me</h3>
 <p><a href="https://twitter.com/Carlos_MonFer" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-<h3>Stats/h3>
+<h3>Stats</h3>
 
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=CarlosMontesino02&show_icons=true&theme=dracula&hide=stars,issues)
