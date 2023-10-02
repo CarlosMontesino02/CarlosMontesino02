@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on developing a web app
 - 🌱 I’m also learning Django framework
-- 📫 How to reach me: carlos.montesino.fernando.alu@iesfernandoaguilar.es
+- 📫 How to reach me: carlos.montesino.fernando.02@gmail.com
 - :bird: Twitter: @Carlos_MonFer
 <h3>Where to find me</h3>
 <p><a href="https://twitter.com/Carlos_MonFer" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
