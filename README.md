@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-- 🔭 I’m currently working on developing a web app
+- 🔭 I’m currently studying cybersecurity
 - 🌱 I’m also learning Django framework
 - 📫 How to reach me: carlos.montesino.fernando.02@gmail.com
 - :bird: Twitter: @Carlos_MonFer
