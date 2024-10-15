@@ -1,7 +1,7 @@
 ### Greetings 👋
 
-- 🔭 I’m currently studying cybersecurity
-- 🌱 I’m also learning Django framework
+- 🔭 I’m currently improving my cybersecurity skills
+- 🌱 Sysadmin and cybersecurity specialist
 - 📫 How to reach me: carlos.montesino.fernando.02@gmail.com
 - :bird: Twitter: @Carlos_MonFer
 <h3>Where to find me</h3>
