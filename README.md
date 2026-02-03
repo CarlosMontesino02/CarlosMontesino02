@@ -5,7 +5,7 @@
 - 📫 How to reach me: carlos.montesino.fernando.02@gmail.com
 - :bird: Twitter: @Carlos_MonFer
 <h3>THM</h3>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2060829" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/carlos.montesino.png" alt="Your Image Badge" />
 </p>
 <h3>Stats</h3>
 
